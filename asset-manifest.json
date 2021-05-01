@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://rakeshkumar2018.github.io/csb-8f4gv/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://rakeshkumar2018.github.io/csb-8f4gv/static/js/main.38301f7a.chunk.js",
+    "main.js.map": "https://rakeshkumar2018.github.io/csb-8f4gv/static/js/main.38301f7a.chunk.js.map",
+    "runtime-main.js": "https://rakeshkumar2018.github.io/csb-8f4gv/static/js/runtime-main.14f28be8.js",
+    "runtime-main.js.map": "https://rakeshkumar2018.github.io/csb-8f4gv/static/js/runtime-main.14f28be8.js.map",
+    "static/js/2.0b1bd3fd.chunk.js": "https://rakeshkumar2018.github.io/csb-8f4gv/static/js/2.0b1bd3fd.chunk.js",
+    "static/js/2.0b1bd3fd.chunk.js.map": "https://rakeshkumar2018.github.io/csb-8f4gv/static/js/2.0b1bd3fd.chunk.js.map",
+    "index.html": "https://rakeshkumar2018.github.io/csb-8f4gv/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://rakeshkumar2018.github.io/csb-8f4gv/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.0b1bd3fd.chunk.js.LICENSE.txt": "https://rakeshkumar2018.github.io/csb-8f4gv/static/js/2.0b1bd3fd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.14f28be8.js",
+    "static/js/2.0b1bd3fd.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.38301f7a.chunk.js"
+  ]
+}
